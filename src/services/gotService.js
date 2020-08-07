@@ -41,16 +41,18 @@ export default class GotService {
 
     _transformCharacter(char) {
         return {
+            id: char.url,
             name: char.name,
             gender: char.gender,
             born: char.born,
             died: char.died,
-            culture: char.culture 
+            culture: char.culture,           
         }
     }
 
     _transformHouse(house) {
         return {
+            id: house.url,
             name: house.name,
             region: house.region,
             words: house.words,
