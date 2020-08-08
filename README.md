@@ -1,3 +1,10 @@
+## Link to site: http://got.escalion.ru
+
+Site done with use API https://www.anapioficeandfire.com
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also use Reactstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
